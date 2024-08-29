@@ -14,10 +14,6 @@ Simple Management tool to leverage your performance
 .Appache server 
 .visual studio code
 
-```
-until finished
-```
-
 ## Running the tests
 
 Open your browser and write 'localhost/to do list app'
